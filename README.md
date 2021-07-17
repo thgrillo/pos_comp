@@ -1,3 +1,4 @@
 # pos_comp
 
-testin lib
+O código faz uma comparação de dois arquivos .txt.
+Comparação feita linha por linha.
